@@ -11,6 +11,7 @@ git
   .commit("noop", [], {
     "--allow-empty": true
   }, error => {
+    // This console.log statement is not relevant to the issue
     console.log(error);
     process.stdout.write(chalk.cyan("color\n"));
   });
