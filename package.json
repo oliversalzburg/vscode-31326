@@ -1,0 +1,15 @@
+{
+  "name": "vscode-31326",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "simple-git": "^1.74.1"
+  }
+}
